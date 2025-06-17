@@ -1,0 +1,5 @@
+let text = "こんにちは!この文字数をconsole.logで出力してください";
+
+let length = text.length;
+
+console.log(length);
